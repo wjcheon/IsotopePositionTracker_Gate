@@ -1,14 +1,17 @@
 ## About this code  
 The scripts are modified from benchPET (Gate example).   
-Modified details 
-1) Seednumber : Auto
-2) Head repeatnumber : 8 -> 2
-3) Moving geometry : on -> off 
-4) minSectorDifference : default (3) -> 1 @digitizer.mac
-5) source : twogamma 
-6) OutPutFileOption : Root -> Ascii 
+Modified details   
+1) Seednumber : Auto  
+2) Head repeatnumber : 8 -> 2  
+3) Moving geometry : on -> off   
+4) minSectorDifference : default (3) -> 1 @digitizer.mac  
+5) source : twogamma   
+6) OutPutFileOption : Root -> Ascii   
 
-All rights of "benchPET example" reserved to Gate collaboration.
+
+All rights of "benchPET example" reserved to Gate collaboration.  
+
+
 
 
 
